@@ -1,0 +1,8 @@
+[user]
+	name = Akash Mahajan
+	email = akash7190@gmail.com
+
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short	
+[core]
+	excludesfile = /Users/Akash/.gitignore_global
