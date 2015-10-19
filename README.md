@@ -3,7 +3,7 @@ My local settings for vim editor and bash/terminal
 
 ## How to configure
 Follow the following steps to configure your vim and bash
-* Clone this repo `$ cd ~ && git clone https://github.com/iyogeshjoshi/dotfiles.git` to your home folder.
+* Clone this repo `$ cd ~ && git clone https://github.com/akashmjn/dotfiles.git` to your home folder.
 * Rename the folder to `.vim` or execute this `$ cd ~ && mv dotfiles/ .vim/`
 * Take backup of existing .vimrc and .bashrc files, just in case if something goes wrong you can restore them. Follow the following steps to do it,
 
