@@ -1,5 +1,7 @@
 # Global configuration files 
 
+## BASH: Custom bash profile
+
 ## GIT: Git config and ignore files
 
 ## VIM: Vim and Bash configurations
