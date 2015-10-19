@@ -1,7 +1,11 @@
-# Vim and Bash configurations
+# Global configuration files 
+
+## GIT: Git config and ignore files
+
+## VIM: Vim and Bash configurations
 My local settings for vim editor and bash/terminal
 
-## How to configure
+### How to configure
 Follow the following steps to configure your vim and bash
 * Clone this repo `$ cd ~ && git clone https://github.com/akashmjn/dotfiles.git` to your home folder.
 * Rename the folder to `.vim` or execute this `$ cd ~ && mv dotfiles/ .vim/`
@@ -18,5 +22,5 @@ Follow the following steps to configure your vim and bash
 
 * So the final step is just open you editor `$ vim` and execute this command: `:PluginInstall`.
 
-## Contact me
+# Contact me
 Email me on [akash7190@gmail.com](mailto:akash7190@gmail.com)
